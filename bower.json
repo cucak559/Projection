@@ -1,0 +1,21 @@
+{
+  "name": "BS4-quickstart",
+  "homepage": "https://github.com/cucak559/laracasts_php",
+  "authors": [
+    "cucak559 <michalcaniga559@gnail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "hover": "^2.1.1"
+  }
+}
